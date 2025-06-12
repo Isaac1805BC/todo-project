@@ -27,7 +27,20 @@ public class Usuario {
         listaDeTareas = new ArrayList<>();
     }
     
+
     public void crearLista(){
+        
+    }
+
+    public void eliminarLista(){
+
+    }
+
+    public void crearGrupo(){
+
+    }
+
+    public void eliminarGrupo(){
 
     }
 }
